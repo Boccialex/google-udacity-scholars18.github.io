@@ -252,3 +252,25 @@
     - title: Medium
       icon: medium
       url: https://medium.com/@greta.klimaite
+      
+      
+      - name: Different Bologna 
+  banner: https://imgur.com/a/FuQHtaH
+  links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/Boccialex/DifferentBologna
+  description: |
+  5th Project for Udacity. It's a simple tour guide app of Bologna: in the 4 tabs it shows different activities to be done in the town. 
+  The last tab provides easy sentences to be heard in the local dialect. 
+  It's not the most advanced project I made, but the most rewarding for me and the funniest to do!
+  author: Francesca Borsari
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/Boccialex
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/francesca-borsari-68687832/
+  author_location: Bologna, Italy
+ 
